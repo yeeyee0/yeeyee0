@@ -4,10 +4,15 @@ About Me: Learning Cybersecurity and about the cloud. Interested in learning mor
 
 
 🔭 I’m currently working on: nothing yet
+
 🌱 I’m currently learning: AWS
+
 👯 I’m looking to collaborate on: n/a
+
 🤔 I’m looking for help with: n/a 
+
 💬 Ask me about: n/a
+
 📫 How to reach me: n/a
 
 <!--
