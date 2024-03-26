@@ -7,9 +7,9 @@ About Me: Learning Cybersecurity and about the cloud. Interested in learning mor
 
 🌱 I’m currently working on: AWS Cloud Lab, AWS Educate Certificates
 
-🌱 I currently have certificates in: AWS "Getting Started with: Security, Storage, Compute, Database"
+🌱 Current skills: AWS "Getting Started with: Security, Storage, Compute, Database", Docker
 
-🌱 I’m currently learning: AWS
+🌱 I’m currently learning: AWS, Docker, Ubuntu
 
 🌱 I’m looking to collaborate on: n/a
 
