@@ -11,18 +11,18 @@ About Me: Learning Cybersecurity and about the cloud. Interested in learning mor
 
 🌱 I’m currently learning: AWS, Docker, Ubuntu
 
-🌱 I’m looking to collaborate on: n/a
 
-🌱 I’m looking for help with: AWS
+
 
 
 
 <!--
 **yeeyee0/yeeyee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🌱 I’m looking to collaborate on: n/a
 🌱 Ask me about: n/a
 
 🌱 How to reach me: n/a
 
-
+🌱 I’m looking for help with: AWS
 -->
