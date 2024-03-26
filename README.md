@@ -1,5 +1,7 @@
 ### Hi there 
 
+www.linkedin.com/in/edgardo-vasquez1
+
 About Me: Learning Cybersecurity and about the cloud. Interested in learning more and seeing what is available on Github/ how to use Git.
 
 
