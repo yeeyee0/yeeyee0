@@ -3,13 +3,15 @@
 About Me: Learning Cybersecurity and about the cloud. Interested in learning more and seeing what is available on Github/ how to use Git.
 
 
-🔭 I’m currently working on: nothing yet
+🔭 I’m currently working on: AWS Cloud Lab, AWS Educate Certificates
+
+🌱 I currently have certificates in: AWS "Getting Started with: Security, Storage, Compute, Database"
 
 🌱 I’m currently learning: AWS
 
 👯 I’m looking to collaborate on: n/a
 
-🤔 I’m looking for help with: n/a 
+🤔 I’m looking for help with: AWS
 
 💬 Ask me about: n/a
 
