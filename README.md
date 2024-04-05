@@ -1,6 +1,7 @@
 ### Hi there 
 
-www.linkedin.com/in/edgardo-vasquez1
+<a href="www.linkedin.com/in/edgardo-vasquez1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 About Me: Learning Cybersecurity and about the cloud. Interested in learning more and seeing what is available on Github/ how to use Git.
 
