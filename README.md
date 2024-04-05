@@ -1,6 +1,8 @@
 ### Hi there 
 
 <a href="www.linkedin.com/in/edgardo-vasquez1" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 100px; height: 100px;">
+</a>
 
 www.linkedin.com/in/edgardo-vasquez1
 
